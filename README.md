@@ -1,5 +1,6 @@
 # Capitals-GUI
 Languages used: Python
+
 Modules: tkinter, ttk, messagebox
 
 # Description
